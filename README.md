@@ -1,0 +1,1 @@
+https://elvintalibov.github.io/Veb-proqramlasdirma-lab-3/ bu linkə daxil olduqda bizi rootdakı index faylının nəticəsinə atır, tapşırıqların nəticələri arasında gəzmək üçün tapşırığın adına klikləməniz kifayətdir!
