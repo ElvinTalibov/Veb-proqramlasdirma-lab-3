@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0; /* Açıq boz fon */
+  display: flex;
+  justify-content: center; /* Üfüqi mərkəzləşdirmə */
+  align-items: center;     /* Şaquli mərkəzləşdirmə */
+  height: 100vh;           /* Tam ekran hündürlüyü */
+}
+
+.responsive-box {
+  background-color: #4CAF50; /* Yaşıl div */
+  color: black;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px;
+  width: 80%;               /* Ekran ölçüsünə uyğun genişlik */
+  max-width: 400px;         /* Maksimum genişlik */
+}

@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  background-color: #333; /* Tünd fon */
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex; /* üfüqi düzülüş */
+  justify-content: center; /* mərkəzləşdirmə */
+}
+
+.navbar li {
+  margin: 0 15px;
+}
+
+.navbar a {
+  display: block;
+  color: white;
+  text-decoration: none;
+  padding: 14px 20px;
+  transition: background-color 0.3s;
+}
+
+.navbar a:hover {
+  background-color: #4CAF50; /* hover effekti üçün yaşıl */
+  border-radius: 4px;
+}
