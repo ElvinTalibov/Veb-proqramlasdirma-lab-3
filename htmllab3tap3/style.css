@@ -4,15 +4,15 @@ body {
 }
 
 .navbar {
-  background-color: #333; /* Tünd fon */
+  background-color: #333; 
 }
 
 .navbar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  display: flex; /* üfüqi düzülüş */
-  justify-content: center; /* mərkəzləşdirmə */
+  display: flex; 
+  justify-content: center; 
 }
 
 .navbar li {
@@ -28,6 +28,6 @@ body {
 }
 
 .navbar a:hover {
-  background-color: #4CAF50; /* hover effekti üçün yaşıl */
+  background-color: #4CAF50; 
   border-radius: 4px;
 }
